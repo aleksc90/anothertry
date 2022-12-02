@@ -1,8 +1,6 @@
 let homeScoreEl = document.getElementById("homeScore")
 let guestScoreEl = document.getElementById("guestScore")
 
-console.log(homeScoreEl.textContent)
-
 let sum = 0
 let guestSum = 0
 
