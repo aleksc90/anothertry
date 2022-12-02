@@ -1,8 +1,10 @@
-let homeScoreEl = document.getElementById("homeScore")
-let guestScoreEl = document.getElementById("guestScore")
+
 
 let sum = 0
 let guestSum = 0
+
+let homeScoreEl = document.getElementById("homeScore")
+let guestScoreEl = document.getElementById("guestScore")
 
 function addOne() {
     sum += 1 
